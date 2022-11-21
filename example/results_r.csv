@@ -1,0 +1,32 @@
+filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model
+example/soundscape.wav,0,3.0,Poecile atricapillus,Black-capped Chickadee,0.6618,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,9.0,12.0,Haemorhous mexicanus,House Finch,0.5067,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,12.0,15.0,Haemorhous mexicanus,House Finch,0.1234,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,12.0,15.0,Haemorhous purpureus,Purple Finch,0.1152,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,15.0,18.0,Cyanocitta cristata,Blue Jay,0.2294,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,18.0,21.0,Cyanocitta cristata,Blue Jay,0.2049,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,21.0,24.0,Cyanocitta cristata,Blue Jay,0.3831,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,21.0,24.0,Accipiter striatus,Sharp-shinned Hawk,0.1194,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,21.0,24.0,Haliaeetus leucocephalus,Bald Eagle,0.1003,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,27.0,30.0,Junco hyemalis,Dark-eyed Junco,0.1200,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,33.0,36.0,Junco hyemalis,Dark-eyed Junco,0.3555,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,33.0,36.0,Spizelloides arborea,American Tree Sparrow,0.1675,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,36.0,39.0,Falco columbarius,Merlin,0.1338,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,36.0,39.0,Junco hyemalis,Dark-eyed Junco,0.1159,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,42.0,45.0,Junco hyemalis,Dark-eyed Junco,0.7101,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,42.0,45.0,Falco columbarius,Merlin,0.3600,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,48.0,51.0,Falco columbarius,Merlin,0.1608,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,51.0,54.0,Haemorhous mexicanus,House Finch,0.2652,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,54.0,57.0,Haemorhous mexicanus,House Finch,0.1049,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,57.0,60.0,Haemorhous purpureus,Purple Finch,0.1282,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,60.0,63.0,Junco hyemalis,Dark-eyed Junco,0.2753,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,60.0,63.0,Emberiza rustica,Rustic Bunting,0.2161,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,60.0,63.0,Haemorhous purpureus,Purple Finch,0.1549,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,66.0,69.0,Haemorhous mexicanus,House Finch,0.5737,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,69.0,72.0,Haemorhous mexicanus,House Finch,0.3838,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,72.0,75.0,Haemorhous mexicanus,House Finch,0.1725,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,72.0,75.0,Catherpes mexicanus,Canyon Wren,0.1474,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,84.0,87.0,Haemorhous mexicanus,House Finch,0.4331,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,90.0,93.0,Spinus tristis,American Goldfinch,0.1073,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,93.0,96.0,Haemorhous mexicanus,House Finch,0.3860,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite
+example/soundscape.wav,117.0,120.0,Spinus tristis,American Goldfinch,0.1954,-1.0000,-1.0000,-1,0.0,1.0,0.1,None,BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite

@@ -1,0 +1,32 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,Poecile atricapillus,Black-capped Chickadee,0.6618
+9.0,12.0,Haemorhous mexicanus,House Finch,0.5067
+12.0,15.0,Haemorhous mexicanus,House Finch,0.1234
+12.0,15.0,Haemorhous purpureus,Purple Finch,0.1152
+15.0,18.0,Cyanocitta cristata,Blue Jay,0.2294
+18.0,21.0,Cyanocitta cristata,Blue Jay,0.2049
+21.0,24.0,Cyanocitta cristata,Blue Jay,0.3831
+21.0,24.0,Accipiter striatus,Sharp-shinned Hawk,0.1194
+21.0,24.0,Haliaeetus leucocephalus,Bald Eagle,0.1003
+27.0,30.0,Junco hyemalis,Dark-eyed Junco,0.1200
+33.0,36.0,Junco hyemalis,Dark-eyed Junco,0.3555
+33.0,36.0,Spizelloides arborea,American Tree Sparrow,0.1675
+36.0,39.0,Falco columbarius,Merlin,0.1338
+36.0,39.0,Junco hyemalis,Dark-eyed Junco,0.1159
+42.0,45.0,Junco hyemalis,Dark-eyed Junco,0.7101
+42.0,45.0,Falco columbarius,Merlin,0.3600
+48.0,51.0,Falco columbarius,Merlin,0.1608
+51.0,54.0,Haemorhous mexicanus,House Finch,0.2652
+54.0,57.0,Haemorhous mexicanus,House Finch,0.1049
+57.0,60.0,Haemorhous purpureus,Purple Finch,0.1282
+60.0,63.0,Junco hyemalis,Dark-eyed Junco,0.2753
+60.0,63.0,Emberiza rustica,Rustic Bunting,0.2161
+60.0,63.0,Haemorhous purpureus,Purple Finch,0.1549
+66.0,69.0,Haemorhous mexicanus,House Finch,0.5737
+69.0,72.0,Haemorhous mexicanus,House Finch,0.3838
+72.0,75.0,Haemorhous mexicanus,House Finch,0.1725
+72.0,75.0,Catherpes mexicanus,Canyon Wren,0.1474
+84.0,87.0,Haemorhous mexicanus,House Finch,0.4331
+90.0,93.0,Spinus tristis,American Goldfinch,0.1073
+93.0,96.0,Haemorhous mexicanus,House Finch,0.3860
+117.0,120.0,Spinus tristis,American Goldfinch,0.1954
