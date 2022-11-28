@@ -137,7 +137,7 @@ def saveResultFile(r, path, afile_path):
     elif cfg.RESULT_TYPE == 'r':
 
         # Output format for R
-        header = 'filepath,start,end,scientific_name,common_name,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model'
+        header = 'filepath,start,end,scientific_name,common_name,species_code,confidence,lat,lon,week,overlap,sensitivity,min_conf,species_list,model'
         out_string += header
 
         for timestamp in getSortedTimestamps(r):
@@ -146,12 +146,13 @@ def saveResultFile(r, path, afile_path):
             for c in r[timestamp]:
                 if c[1] > cfg.MIN_CONFIDENCE and c[0] in cfg.CODES and (c[0] in cfg.SPECIES_LIST or len(cfg.SPECIES_LIST) == 0):                    
                     label = cfg.TRANSLATED_LABELS[cfg.LABELS.index(c[0])]
-                    rstring += '\n{},{},{},{},{},{:.4f},{:.4f},{:.4f},{},{},{},{},{},{}'.format(
+                    rstring += '\n{},{},{},{},{},{},{:.4f},{:.4f},{:.4f},{},{},{},{},{},{}'.format(
                         afile_path,
                         start,
                         end,
                         label.split('_')[0],
                         label.split('_')[1],
+                        cfg.CODES[c[0]],
                         c[1],
                         cfg.LATITUDE,
                         cfg.LONGITUDE,
