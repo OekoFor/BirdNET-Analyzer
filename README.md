@@ -1,6 +1,8 @@
 # BirdNET-Analyzer-4RPi
 Python package of the [BirdNET-Analyzer](https://github.com/kahst/BirdNET-Analyzer) for usage on Raspberry Pi.
 
+This package was tested with `python=3.9` on `TUXEDO OS 22.04 (x64)` and `RASPBERRY PI OS LITE 11 bullseye (x64)`.
+
 
 ## Installation
 
