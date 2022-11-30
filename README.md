@@ -17,7 +17,7 @@ sudo apt install pip ffmpeg
 ### 3. Install the package via pip from .whl
 By running the following command the package will be installed globally for the user running the ecoPi.
 ```sh
-pip install <BirdNET-Analyzer-4RPi>/dist/birdnet_analyzer_4rpi-<your version>.whl
+pip install <Path to BirdNET-Analyzer-4RPi>/dist/birdnet_analyzer_4rpi-<your version>.whl
 ```
 
 
