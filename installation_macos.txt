@@ -1,7 +1,0 @@
-make sure to setup conda env
-
-conda install -c apple tensorflow-deps
-pip install tensorflow-macos
-pip install tensorflow-metal
-
-if there is a problem with numpy version (like 0x10 found but 0xf1 needed), check the c-code something 

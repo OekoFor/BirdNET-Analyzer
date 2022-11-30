@@ -1,6 +1,6 @@
 import numpy as np
 
-import config as cfg
+import birdnet_analyzer_4rpi.config as cfg
 
 RANDOM = np.random.RandomState(cfg.RANDOM_SEED)
 
