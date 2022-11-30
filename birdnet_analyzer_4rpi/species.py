@@ -2,9 +2,9 @@ import sys
 import os
 import argparse
 
-import config as cfg
-import analyze
-import model
+import birdnet_analyzer_4rpi.config as cfg
+import birdnet_analyzer_4rpi.analyze as analyze
+import birdnet_analyzer_4rpi.model as model
 
 def getSpeciesList(lat, lon, week, threshold=0.05, sort=False):
 

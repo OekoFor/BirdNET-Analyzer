@@ -11,8 +11,8 @@ from multiprocessing import Pool, freeze_support
 import numpy as np
 
 import birdnet_analyzer_4rpi.config as cfg
-import birdnet_analyzer_4rpi.audio
-import birdnet_analyzer_4rpi.model
+import birdnet_analyzer_4rpi.audio as audio
+import birdnet_analyzer_4rpi.model as model
 
 def clearErrorLog():
 

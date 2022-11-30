@@ -7,9 +7,9 @@ import traceback
 
 from multiprocessing import Pool
 
-import config as cfg
-import analyze
-import model
+import birdnet_analyzer_4rpi.config as cfg
+import birdnet_analyzer_4rpi.audio as audio
+import birdnet_analyzer_4rpi.model as model
 
 def clearErrorLog():
 

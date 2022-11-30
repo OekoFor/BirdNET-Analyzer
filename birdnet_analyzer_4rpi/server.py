@@ -8,8 +8,10 @@ import tempfile
 
 from multiprocessing import freeze_support
 
-import config as cfg
-import analyze
+
+import birdnet_analyzer_4rpi.config as cfg
+import birdnet_analyzer_4rpi.analyze as analyze
+
 
 def clearErrorLog():
 

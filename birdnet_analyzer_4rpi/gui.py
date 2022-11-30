@@ -5,9 +5,9 @@ import webview
 
 from multiprocessing import Pool, freeze_support
 
-import config as cfg
-import analyze
-import model
+import birdnet_analyzer_4rpi.config as cfg
+import birdnet_analyzer_4rpi.analyzeas analyze
+import birdnet_analyzer_4rpi.model as model
 
 def registerWindow(window):
 

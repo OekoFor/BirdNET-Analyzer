@@ -2,6 +2,7 @@
 name = "birdnet-analyzer-4rpi"
 version = "0.1.0"
 description = "Python package for BirdNET-Analyzer"
+license = "CC BY-NC-SA 4.0"
 authors = ["Florian Stehr <florian.stehr@gmail.com>"]
 readme = "README.md"
 packages = [{include = "birdnet_analyzer_4rpi"}]
