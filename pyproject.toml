@@ -10,7 +10,7 @@ packages = [{include = "birdnet_analyzer_4rpi"}]
 [tool.poetry.dependencies]
 python = ">=3.9,<3.10"
 librosa = "^0.9.2"
-tflite-runtime = "^2.10.0"
+tflite-runtime = "~2.10.0"
 
 [tool.poetry.group.dev.dependencies]
 pylint = "^2.15.7"
