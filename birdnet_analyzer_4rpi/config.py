@@ -11,10 +11,10 @@ RANDOM_SEED = 42
 
 # This will load the protobuf model
 # MODEL_PATH = 'checkpoints/V2.3/BirdNET_GLOBAL_3K_V2.3_Model'
-MODEL_PATH = "checkpoints/V2.4/BirdNET_GLOBAL_3K_V2.4_Model_INT8.tflite"
-MDATA_MODEL_PATH = "checkpoints/V2.4/BirdNET_GLOBAL_3K_V2.3_MData_Model_INT8.tflite"
-LABELS_FILE = "checkpoints/V2.4/BirdNET_GLOBAL_3K_V2.4_Labels.txt"
-TRANSLATED_LABELS_PATH = "labels/V2.3"
+MODEL_PATH = "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.4_Model_INT8.tflite"
+MDATA_MODEL_PATH = "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.3_MData_Model_INT8.tflite"
+LABELS_FILE = "checkpoints/V2.4/BirdNET_GLOBAL_6K_V2.4_Labels.txt"
+TRANSLATED_LABELS_PATH = "labels/V2.4"
 
 ##################
 # Audio settings #
